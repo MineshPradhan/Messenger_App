@@ -1,2 +1,2 @@
 # Messenger_App-Kotlin
-A chat app for secure conversation with your friends and families.
+Developing a Android chat app for secure conversation with your friends and families.
